@@ -40,7 +40,6 @@
     "electrode-server": "^1.0.0",
     "electrode-static-paths": "^1.0.0",
     "first-component": "^1.0.0",
-    "github": "^6.0.3",
     "lodash": "^4.10.1"
   },
   "devDependencies": {
